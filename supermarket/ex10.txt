@@ -1,0 +1,17 @@
+dhal.txt='paruppu,pattani,payir,ulundhu'
+
+vegatables.txt="tomato,potato,brinjal,carrot,beans,green chilli,red chilli,ginger,
+                lemon,beedroot,laddies finger,gabbage,coconut'
+
+fruits.txt='apple,orange,grapes,pomegranate,banana,papaya,watermelon,black grapes,
+             blueberry,mango,cherry,strawberry,pineapple,avacado,guava'
+
+dry_fruits.txt='cashew nut,raisins,dates,walnuts,almond,pistachio'
+
+cosmetic.txt='colgate toothpaste,pepsodent toothpaste,dabur red toothpaste,dettol soap,lifebouy soap,
+             santoor sandal soap,jhonson baby soap,johnsons baby kit,head & shoulder shampoo,all
+             clear shampoo'
+vessels.txt='tumbler,plates,plastic mugs,water bottles,soap box' 
+juice.txt='bovonto,fizz,cococola,pepsi,7up,fanta'
+chocolate.txt='dairymilk,5star,perk,lotychocopie,milkybar'
+chips.txt='greenlays,bingo,yellowlays,redlays,greenlays,orangelays,bluelays
